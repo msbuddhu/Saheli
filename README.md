@@ -24,7 +24,7 @@
 <img align="center" src="cross.png" width=100%>
 
 <br><br><br><br><br><br><br><br>
-<h2 align="center" id="Methodologies"> :label: Methodologies</h2>
+<h2 align="center" id="Modules"> :label: Modules</h2>
 
 <br><br><br><br><br><br><br><br>
 <h2 align="center" id="Screenshots"> :label: Screenshots</h2>
