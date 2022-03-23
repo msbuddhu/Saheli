@@ -24,6 +24,12 @@
 <img align="center" src="cross.png" width=100%>
 
 <br><br><br><br><br><br><br><br>
+#Methodologies
+
+<br><br><br><br><br><br><br><br>
+#Screenshots
+
+<br><br><br><br><br><br><br><br>
 
 <h2 align="center" id="Inspiration"> :label: Inspiration</h2>
 
