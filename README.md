@@ -21,7 +21,8 @@
 
 <br><br><br><br><br><br><br><br>
 <h2 align="center" id="Modules"> :label: Modules</h2>
-<h1 align="center"><img width=50% height=50% alt="Modules" src=" #https://github.com/msbuddhu/Saheli/blob/main/Screenshot%20(2).png#"></h1>
+<h1 align="center"><img width=50% height=50% alt="Modules" src="https://github.com/msbuddhu/Saheli/blob/main/Screenshot%20(2).png"></h1>
+
 
 <br><br><br><br><br><br><br><br>
 <h2 align="center" id="Screenshots"> :label: Screenshots</h2>
