@@ -27,7 +27,15 @@
 
 <h2 align="center" id="Inspiration"> :label: Inspiration</h2>
 
-Considering the safety and security of women in India in the recent times, We wanted to give a try from our end to address the issue in a simpler and safer way.
+Safety for women is one of the most pressing issues of our time that should have been a 
+fundamental, undeniable concept for any civilized society centuries ago.
+
+A lot of people have been crying out loud for better ways to ensure women's security and 
+make things better for them. And it seems like people are definitely trying to do; something 
+about it!
+
+Through our App Saheli we are trying to solve the same problem by ensuring the safety 
+of women.
 
 Looking at the recent trends and the most powerful weapon with the humanity - technology, we planned to use the same to give access to women in serious or dangerous situations to address the issue in a fast and easier way to ensure their security.
 
@@ -38,17 +46,13 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
   #### Main Features
   
    :point_right: Map - To track the current location of the user, guiding for safe routes and crime prone areas.<br/>
-   :point_right: Voice Assistant - executes features on voice commands<br/>
-     
-  #### Additional Features
-  
-   :point_right: SOS - SOS call and SOS messages to user provided contacts<br/>
-   :point_right: Shake - Detects the frequency of shakes and after a certain frequency sends help message with user location to provided contacts<br/>
-   :point_right: Camera - To capture image or and record video and save it to the local storage <br/>
-   :point_right: Police stations - Locates all the nearest police stations<br/>
-   :point_right: Police siren - Rings the police siren<br/>
-   :point_right: Taxi - One touch ola cab facility to books cabs for user<br/>
-   :point_right: News - To guide the users about self defense techniques<br/>
+   :point_right: Panic Alert. <br/>
+   :point_right: SOS Alerting. <br/>
+   :point_right: Live Audio-Visual Sharing. <br/>
+   :point_right: Live Location Sharing. <br/>
+   :point_right: Awareness & Self-defense techniques. <br/>
+
+   
 
 <i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
