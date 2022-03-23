@@ -24,10 +24,10 @@
 <img align="center" src="cross.png" width=100%>
 
 <br><br><br><br><br><br><br><br>
-#Methodologies
+<h2 align="center" id="Methodologies"> :label: Methodologies</h2>
 
 <br><br><br><br><br><br><br><br>
-#Screenshots
+<h2 align="center" id="Screenshots"> :label: Screenshots</h2>
 
 <br><br><br><br><br><br><br><br>
 
