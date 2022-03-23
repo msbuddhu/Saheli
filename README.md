@@ -52,9 +52,4 @@ Looking at the recent trends and the most powerful weapon with the humanity - te
    :point_right: Live Location Sharing. <br/>
    :point_right: Awareness & Self-defense techniques. <br/>
 
-   
-
-<i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
-<br><br><br><br><br><br><br><br>
 
