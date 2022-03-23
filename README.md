@@ -6,7 +6,7 @@
 <h1 align="center"><img width=50% height=50% alt="Saheli" src=" ##"></h1>
 <h1 align="center" SAHELI- A Cross Platform Women Safety Application</h1>
 
-<!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -17,14 +17,11 @@
 
 
 
-
-
-
-
 <img align="center" src="cross.png" width=100%>
 
 <br><br><br><br><br><br><br><br>
 <h2 align="center" id="Modules"> :label: Modules</h2>
+<h1 align="center"><img width=50% height=50% alt="Saheli" src=" ##"></h1>
 
 <br><br><br><br><br><br><br><br>
 <h2 align="center" id="Screenshots"> :label: Screenshots</h2>
